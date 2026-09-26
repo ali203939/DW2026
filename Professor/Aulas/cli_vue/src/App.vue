@@ -5,6 +5,8 @@
     <HomeComponent />
     <br />
     <usuario-component />
+    <br />
+    <lista-deputados-component />
   </div>
 </template>
 
@@ -12,6 +14,7 @@
 import HomeComponent from "./components/HomeComponent.vue";
 import UsuarioComponent from "./components/UsuarioComponent.vue";
 import ImgComponent from "./components/ImgComponent.vue";
+import ListaDeputadosComponent from "./components/ListaDeputadosComponent.vue";
 
 export default {
   name: "App",
@@ -19,6 +22,7 @@ export default {
     HomeComponent,
     UsuarioComponent,
     ImgComponent,
+    ListaDeputadosComponent,
   },
   mounted() {
     console.log("Minha Aplicação criou minha tela e todos os elemetos do DOM");

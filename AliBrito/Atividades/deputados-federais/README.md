@@ -2,6 +2,9 @@
 
 Aplicação web para consultar deputados federais, com busca por nome, filtros por estado e partido, favoritos e detalhes completos de cada parlamentar.
 
+# Link
+https://deputados.vercel.app/
+
 ## Sobre o projeto
 
 Este projeto consome a API pública da Câmara dos Deputados para exibir informações como:

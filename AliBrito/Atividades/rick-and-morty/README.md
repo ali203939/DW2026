@@ -21,7 +21,7 @@ Aplicação em Vue 3 para consumir a API pública do Rick and Morty e listar per
 1. Acesse a pasta do projeto:
 
 ```bash
-cd AliBrito/Atividades/rick-and-morty/rick-and-morty
+cd AliBrito/Atividades/rick-and-morty
 ```
 
 2. Instale as dependências:
